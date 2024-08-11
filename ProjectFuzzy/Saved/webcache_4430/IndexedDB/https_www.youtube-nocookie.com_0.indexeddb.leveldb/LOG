@@ -1,0 +1,6 @@
+2024/08/10-19:59:07.562 5d04 Creating DB C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/08/10-19:59:07.567 5d04 Reusing MANIFEST C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/10-20:51:46.181 4cc8 Level-0 table #5: started
+2024/08/10-20:51:46.186 4cc8 Level-0 table #5: 1211 bytes OK
+2024/08/10-20:51:46.187 4cc8 Delete type=0 #3
+2024/08/10-20:51:46.187 4cc8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
