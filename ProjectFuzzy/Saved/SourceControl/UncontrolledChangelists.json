@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UE-Projects/Project_Fuzzy_Online/ProjectFuzzy/ProjectFuzzy/Content/Fuzzy/TopdownFuzzy.uasset",
+				"C:/UE-Projects/Project_Fuzzy_Online/ProjectFuzzy/ProjectFuzzy/Content/Puzzle/blueprint/Puzzle_Actor.uasset",
 				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/WBP_Credits.uasset",
 				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/AGG2024/BlockoutMap.umap",
 				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Puzzle/A_MiniGame_MusicArrange.uasset",
