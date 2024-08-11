@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/Miradeldryadafter.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/OFOTree.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/Robot.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/Toiletbro.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/Items/Bobthewater.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/Items/Key.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/Items/Toiletpaper.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/ItemSprites/Toiletpaper_Sprite.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/ItemSprites/Key_Sprite.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/ItemSprites/Bobthewater_Sprite.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/NPCSourceTextures/Items/Bobthewater.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/NPCSourceTextures/Items/Key.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/NPCSourceTextures/Items/Toiletpaper.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/NPCSourceTextures/Miradeldryadafter.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/NPCSourceTextures/OFOTree.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/NPCSourceTextures/Robot.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/NPCSourceTextures/Toiletbro.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/Miradeldryadafter_Sprite.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/OFOTree_Sprite.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/Robot_Sprite.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/Toiletbro_Sprite.uasset",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/AGG2024/BlockoutMap.umap",
+				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/Puzzle/A_MiniGame_MusicArrange.uasset"
+			]
+		}
+	]
+}
