@@ -5,12 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/Fuzzy/TopdownFuzzy.uasset",
-				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/interactible_NPC_Child.uasset",
-				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/interactible_item.uasset",
-				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/ItemSprites/Toiletpaper_Sprite.uasset",
-				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/interactible_item_toilet_paper.uasset",
-				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/interactible_NPC.uasset"
+				"C:/UE-Projects/Project_Fuzzy_Online/ProjectFuzzy/ProjectFuzzy/Content/Fuzzy/TopdownFuzzy.uasset",
+				"C:/UE-Projects/Project_Fuzzy_Online/ProjectFuzzy/ProjectFuzzy/Content/Puzzle/blueprint/Puzzle_Actor.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/WBP_Credits.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/AGG2024/BlockoutMap.umap",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Puzzle/A_MiniGame_MusicArrange.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Fuzzy/TopdownFuzzy.uasset"
 			]
 		}
 	]
