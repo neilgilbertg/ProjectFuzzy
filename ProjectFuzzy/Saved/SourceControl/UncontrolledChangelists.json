@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/Miradeldryadafter.uasset",
 				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/OFOTree.uasset",
 				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPC/NPCs_sprites/NPCSourceTextures/Robot.uasset",
@@ -28,6 +29,21 @@
 				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/NPCs/Toiletbro_Sprite.uasset",
 				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/AGG2024/BlockoutMap.umap",
 				"C:/Users/Rowsa/github/Github/ProjectFuzzy/ProjectFuzzy/Content/Puzzle/A_MiniGame_MusicArrange.uasset"
+=======
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/WBP_MainMenu.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/L_StartMenu.umap",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/MenuGamemode.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/AGG2024/BlockoutMap.umap",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/WBP_Credits.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/NewWorld.umap",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/Images/Background.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/Images/FuzzyBlue.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/Images/Fuzzyellow.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/Images/FuzzyGreen.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/Images/Fuzzypink.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/Images/FuzzyPurpleora.uasset",
+				"C:/Users/Kaitlin/Documents/AGG2024/ProjectFuzzy/ProjectFuzzy/Content/Menus/Images/Fuzzyred.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
